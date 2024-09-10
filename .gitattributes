@@ -1,0 +1,6 @@
+# Ensure consistent line endings
+* text=auto
+
+# Specific file handling
+*.js eol=lf
+*.json eol=lf
